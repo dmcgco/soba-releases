@@ -7,5 +7,21 @@
     <link>https://github.com/dmcgco/soba</link>
     <description>Over-the-air updates for the direct-download Soba beta.</description>
     <language>en</language>
+
+    <item>
+      <title>Version 0.1.0 (2)</title>
+      <link>https://github.com/dmcgco/soba-releases/releases/tag/direct-beta-v0.1.0</link>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://github.com/dmcgco/soba-releases/releases/tag/direct-beta-v0.1.0</sparkle:releaseNotesLink>
+      <pubDate>Mon, 30 Mar 2026 13:36:48 +0000</pubDate>
+      <enclosure
+        url="https://github.com/dmcgco/soba-releases/releases/download/direct-beta-v0.1.0/Soba-0.1.0-2.dmg"
+        sparkle:edSignature="l87oxEy90KGQRiZSTIVbZEaJn2ros8z4TFj0L9iBkBqKwntmfDxoPa7/tgmUounH81qkNWkCV3VWhy60LkqaBQ=="
+        length="5664772"
+        type="application/octet-stream" />
+    </item>
+
   </channel>
 </rss>

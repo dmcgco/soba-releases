@@ -11,6 +11,22 @@
 
 
 
+
+    <item>
+      <title>Version 0.1.5 (7)</title>
+      <link>https://log.sobanotes.app/</link>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://log.sobanotes.app/</sparkle:releaseNotesLink>
+      <pubDate>Wed, 29 Apr 2026 22:25:44 +0000</pubDate>
+      <enclosure
+        url="https://github.com/dmcgco/soba-releases/releases/download/direct-beta-v0.1.5/Soba-0.1.5-7.dmg"
+        sparkle:edSignature="dsIYYr8X7IlzN/MbLkzF60OKoKAEUHFm4VlmorbUQXGuKyvvUs5tIhnDoErq9TW+cTyyZYX83PkTB2ceju+XBA=="
+        length="6140850"
+        type="application/octet-stream" />
+    </item>
+
     <item>
       <title>Version 0.1.4 (6)</title>
       <link>https://log.sobanotes.app/</link>

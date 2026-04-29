@@ -4,19 +4,35 @@
      xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Soba Direct Beta Updates</title>
-    <link>https://github.com/dmcgco/soba</link>
+    <link>https://log.sobanotes.app/</link>
     <description>Over-the-air updates for the direct-download Soba beta.</description>
     <language>en</language>
 
 
 
+
+    <item>
+      <title>Version 0.1.4 (6)</title>
+      <link>https://log.sobanotes.app/</link>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://log.sobanotes.app/</sparkle:releaseNotesLink>
+      <pubDate>Wed, 29 Apr 2026 02:58:23 +0000</pubDate>
+      <enclosure
+        url="https://github.com/dmcgco/soba-releases/releases/download/direct-beta-v0.1.4/Soba-0.1.4-6.dmg"
+        sparkle:edSignature="pt90aMwpGcLJQwx9IKPHH06E3KDud6GaHn6hzAqsu0S1AWOw4XEeelradh8FUNfbyNz908b+bt1e7bkAv4vZCw=="
+        length="5983208"
+        type="application/octet-stream" />
+    </item>
+
     <item>
       <title>Version 0.1.3 (5)</title>
-      <link>https://github.com/dmcgco/soba-releases/releases/tag/direct-beta-v0.1.3</link>
+      <link>https://log.sobanotes.app/</link>
       <sparkle:version>5</sparkle:version>
       <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0.0</sparkle:minimumSystemVersion>
-      <sparkle:releaseNotesLink>https://github.com/dmcgco/soba-releases/releases/tag/direct-beta-v0.1.3</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink>https://log.sobanotes.app/</sparkle:releaseNotesLink>
       <pubDate>Wed, 29 Apr 2026 01:12:51 +0000</pubDate>
       <enclosure
         url="https://github.com/dmcgco/soba-releases/releases/download/direct-beta-v0.1.3/Soba-0.1.3-5.dmg"
@@ -27,11 +43,11 @@
 
     <item>
       <title>Version 0.1.2 (4)</title>
-      <link>https://github.com/dmcgco/soba-releases/releases/tag/direct-beta-v0.1.2</link>
+      <link>https://log.sobanotes.app/</link>
       <sparkle:version>4</sparkle:version>
       <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0.0</sparkle:minimumSystemVersion>
-      <sparkle:releaseNotesLink>https://github.com/dmcgco/soba-releases/releases/tag/direct-beta-v0.1.2</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink>https://log.sobanotes.app/</sparkle:releaseNotesLink>
       <pubDate>Tue, 28 Apr 2026 21:05:05 +0000</pubDate>
       <enclosure
         url="https://github.com/dmcgco/soba-releases/releases/download/direct-beta-v0.1.2/Soba-0.1.2-4.dmg"
@@ -42,11 +58,11 @@
 
     <item>
       <title>Version 0.1.1 (3)</title>
-      <link>https://github.com/dmcgco/soba-releases/releases/tag/direct-beta-v0.1.1</link>
+      <link>https://log.sobanotes.app/</link>
       <sparkle:version>3</sparkle:version>
       <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0.0</sparkle:minimumSystemVersion>
-      <sparkle:releaseNotesLink>https://github.com/dmcgco/soba-releases/releases/tag/direct-beta-v0.1.1</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink>https://log.sobanotes.app/</sparkle:releaseNotesLink>
       <pubDate>Tue, 28 Apr 2026 17:26:24 +0000</pubDate>
       <enclosure
         url="https://github.com/dmcgco/soba-releases/releases/download/direct-beta-v0.1.1/Soba-0.1.1-3.dmg"

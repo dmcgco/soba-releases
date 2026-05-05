@@ -12,6 +12,22 @@
 
 
 
+
+    <item>
+      <title>Version 0.1.6 (8)</title>
+      <link>https://log.sobanotes.app/posts/2026-05-05-updated-ai-models-backlinks-inspector-and-ui-enhancements/</link>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>0.1.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://log.sobanotes.app/posts/2026-05-05-updated-ai-models-backlinks-inspector-and-ui-enhancements/</sparkle:releaseNotesLink>
+      <pubDate>Tue, 05 May 2026 13:23:42 +0000</pubDate>
+      <enclosure
+        url="https://github.com/dmcgco/soba-releases/releases/download/direct-beta-v0.1.6/Soba-0.1.6-8.dmg"
+        sparkle:edSignature="/45sFdX/4g6MyBhCgtQUUPD7dgIj2RjlNEJr61/9lcmym2d2rategEG25FDTS+QM1jwAog75+qA/kOJQzw+3Aw=="
+        length="6218256"
+        type="application/octet-stream" />
+    </item>
+
     <item>
       <title>Version 0.1.5 (7)</title>
       <link>https://log.sobanotes.app/</link>

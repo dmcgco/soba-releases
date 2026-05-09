@@ -13,6 +13,22 @@
 
 
 
+
+    <item>
+      <title>Version 0.1.7 (9)</title>
+      <link>https://log.sobanotes.app/posts/2026-05-09-openai-voice-dictation-and-morning-pages-progress/</link>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>0.1.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://log.sobanotes.app/posts/2026-05-09-openai-voice-dictation-and-morning-pages-progress/</sparkle:releaseNotesLink>
+      <pubDate>Sat, 09 May 2026 18:11:36 +0000</pubDate>
+      <enclosure
+        url="https://github.com/dmcgco/soba-releases/releases/download/direct-beta-v0.1.7/Soba-0.1.7-9.dmg"
+        sparkle:edSignature="Q+N/FgEeywoH28qQJJksmbA+dC2HzaLLTRKqjTBYBKFcby1UvDmOkJ99UUOOm6YRtSTKj1duOCeX35y/io0hAg=="
+        length="6423435"
+        type="application/octet-stream" />
+    </item>
+
     <item>
       <title>Version 0.1.6 (8)</title>
       <link>https://log.sobanotes.app/posts/2026-05-05-updated-ai-models-backlinks-inspector-and-ui-enhancements/</link>
